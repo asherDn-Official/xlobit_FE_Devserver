@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/xlobit-web/sw.js', { scope: '/xlobit-web/' })})}

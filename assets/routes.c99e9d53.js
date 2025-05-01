@@ -1,0 +1,1 @@
+import{aA as s,j as e}from"./index.3c66ef8a.js";import{M as a,V as t}from"./main.2af7feed.js";import"./auth.1091c556.js";var m=()=>s([{path:"/*",element:e(a,{}),children:[{path:"success",element:e(t,{})}]}]);export{m as default};
