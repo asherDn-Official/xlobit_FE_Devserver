@@ -1,1 +1,0 @@
-import{aB as t}from"./index.0cdd5cfc.js";const d=i=>{var o,r;const{data:e,isFetching:s}=t(["userKYC",i],"getKYC");return{userKYC:e,loading:s,verified:Boolean(((o=e==null?void 0:e.userKyc)==null?void 0:o.idProof_verified)&&((r=e==null?void 0:e.userKyc)==null?void 0:r.addressProof_verified))}};export{d as u};
